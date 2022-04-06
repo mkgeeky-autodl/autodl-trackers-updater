@@ -7,7 +7,7 @@ After updating, the script will restart irssi, so you dont need to do anything ð
 
 ## Require
 - [mkgeeky autodl-trackers](https://github.com/mkgeeky/autodl-trackers)
-- wget
+- curl
 
 ## Installation
 * `git clone https://github.com/mkgeeky/autodl-trackers-updater.git`
