@@ -1,6 +1,8 @@
 # autodl-trackers updater
 A simpel bash script to update autodl-trackers from mkgeeky.
+
 The script will download the newest tracker list version, so you always are up2date.
+
 After updating, the script will restart irssi, so you dont need to do anything 👍💪
 
 ## Require
