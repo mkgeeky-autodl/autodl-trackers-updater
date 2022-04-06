@@ -14,7 +14,12 @@ After updating, the script will restart irssi, so you dont need to do anything ð
 
 ### Crontab
 Add the following line to Crontab
-`0 0 * * * /FullPath to update.sh`
+
+#### Daily
+`@daily /FullPath to update.sh`
+
+#### Weekly
+`@weekly /FullPath to update.sh`
 
 # Issues / Support
 - Issues with the script can be added to Github issues
