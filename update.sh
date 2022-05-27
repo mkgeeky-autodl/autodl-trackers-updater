@@ -1,5 +1,11 @@
 #!/bin/bash
-# mkgeeky -> https://github.com/mkgeeky/autodl-trackers-updater
+#############################
+# This script is made by: mkgeeky
+# Web: https://mkgeeky.xyz
+# Git: https://github.com/mkgeeky/
+# Mail: contact@mkgeeky.xyz
+# Lines above MAY NOT BE removed!
+#############################
 
 ## CONFIG - START EDITING
 INSTALLEDPATH=/home/$USER/.irssi/scripts/AutodlIrssi/trackers
