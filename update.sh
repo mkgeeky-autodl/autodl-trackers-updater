@@ -15,7 +15,7 @@ LOG=/home/$USER/mkgeeky-autodl-trackers.log
 ## CONFIG - STOP EDITING !
 
 LINUX=tar.gz
-URL=https://github.com/mkgeeky/autodl-trackers/releases
+URL=https://github.com/mkgeeky/autodl-trackers/tags
 DOWNLOADURL=https://github.com/mkgeeky/autodl-trackers
 die() { echo "$*" 1>&2 ; exit 1; }
 log() { echo "[`date +"%Y-%m-%d %T"`]: $*" >> $LOG; }
